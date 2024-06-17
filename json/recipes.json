@@ -1,0 +1,69 @@
+{
+    "recipes": [
+      {
+        "image": {
+          "src": "/img/dish1.png",
+          "alt": "recipe thumb 1"
+        },
+        "details": {
+          "title": "Edame Noodles",
+          "ingredients": "Edame Beans, Noodles, Garlic oil"
+        },
+        "actions": {
+          "deleteIcon": "delete_outline"
+        }
+      },
+      {
+        "image": {
+          "src": "/img/dish2.png",
+          "alt": "recipe thumb 2"
+        },
+        "details": {
+          "title": "Chicken Curry",
+          "ingredients": "Chicken, Curry Sauce, Rice"
+        },
+        "actions": {
+          "deleteIcon": "delete_outline"
+        }
+      },
+      {
+        "image": {
+          "src": "/img/dish3.png",
+          "alt": "recipe thumb 3"
+        },
+        "details": {
+          "title": "Vegetable Stir Fry",
+          "ingredients": "Broccoli, Bell Peppers, Soy Sauce"
+        },
+        "actions": {
+          "deleteIcon": "delete_outline"
+        }
+      },
+      {
+        "image": {
+          "src": "/img/dish4.png",
+          "alt": "recipe thumb 4"
+        },
+        "details": {
+          "title": "Beef Tacos",
+          "ingredients": "Beef, Tortilla, Lettuce, Cheese"
+        },
+        "actions": {
+          "deleteIcon": "delete_outline"
+        }
+      },
+      {
+        "image": {
+          "src": "/img/dish5.png",
+          "alt": "recipe thumb 5"
+        },
+        "details": {
+          "title": "Salmon Sushi",
+          "ingredients": "Salmon, Rice, Nori, Wasabi"
+        },
+        "actions": {
+          "deleteIcon": "delete_outline"
+        }
+      }
+    ]
+  }
